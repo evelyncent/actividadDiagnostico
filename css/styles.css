@@ -1,0 +1,39 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+.contenedor{
+    background-color: gray;
+    background-image: url(../img/habitacion.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
+    border-radius: 15px;
+    border: solid rgba(97, 13, 13, 0.676);
+    width: 43%;
+    position: relative;
+    left: 250px;
+    height: auto;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+p{
+    
+    font-size: 20px;
+    margin-left: 190px;
+    
+   
+    
+}
+h1{
+    position:relative;
+    left: 185px;
+    
+}
+.info{
+
+   
+    
+    color: rgba(97, 13, 13, 0.676);;
+}
